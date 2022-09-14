@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiamAkacich
 - 👀 I’m interested in ... Web Design & Prototyping
-- 🌱 I’m currently learning ... HTML, CSS, SCSS, PHP & Javascript
+- 🌱 I’m currently learning ... HTML, CSS, SCSS, PHP, Javascript & Java
 
 <!---
 LiamAkacich/LiamAkacich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
